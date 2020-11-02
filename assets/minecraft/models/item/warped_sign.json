@@ -1,0 +1,7 @@
+{
+	"parent": "item/sign",
+	"textures": {
+		"post": "block/warped_stem",
+		"face": "block/warped_sign"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/sign",
+	"textures": {
+		"post": "block/jungle_log",
+		"face": "block/jungle_sign"
+	}
+}

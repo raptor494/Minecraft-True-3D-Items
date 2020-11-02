@@ -1,0 +1,7 @@
+{
+	"parent": "item/sign",
+	"textures": {
+		"post": "block/crimson_stem",
+		"face": "block/crimson_sign"
+	}
+}

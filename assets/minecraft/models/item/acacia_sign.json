@@ -1,0 +1,7 @@
+{
+	"parent": "item/sign",
+	"textures": {
+		"post": "block/acacia_log",
+		"face": "block/acacia_sign"
+	}
+}

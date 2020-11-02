@@ -1,0 +1,7 @@
+{
+	"parent": "item/sign",
+	"textures": {
+		"post": "block/dark_oak_log",
+		"face": "block/dark_oak_sign"
+	}
+}

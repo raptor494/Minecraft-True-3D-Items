@@ -1,0 +1,6 @@
+{
+	"parent": "item/door",
+	"textures": {
+		"layer0": "item/birch_door"
+	}
+}

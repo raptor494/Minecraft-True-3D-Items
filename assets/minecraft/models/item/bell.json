@@ -1,0 +1,70 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "side": "minecraft:block/bell_side",
+        "top": "minecraft:block/bell_top",
+        "bottom": "minecraft:block/bell_bottom",
+        "rod": "minecraft:block/dark_oak_planks"
+    },
+    "display": {
+		"thirdperson_righthand": {
+			"translation": [ 0, 4, 0 ]
+		},
+		"thirdperson_lefthand": {
+			"translation": [ 0, 4, 0 ]
+		},
+		"firstperson_righthand": {
+			"translation": [ 2, 5, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation": [ 2, 5, 0 ]
+		},
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 0, 2, 0 ]
+		},
+		"ground": {
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"translation": [ 0, 12, 0 ]
+		}
+	},
+    "elements": [
+        {
+            "from": [ 4, 2, 4 ], 
+            "to": [ 12, 4, 12 ], 
+            "faces": {
+                "north": { "texture": "#side", "uv": [ 0, 7, 8, 9 ] },
+                "east": { "texture": "#side", "uv": [ 0, 7, 8, 9 ] },
+                "south": { "texture": "#side", "uv": [ 0, 7, 8, 9 ] },
+                "west": { "texture": "#side", "uv": [ 0, 7, 8, 9 ] },
+                "up": { "texture": "#bottom", "uv": [ 0, 0, 8, 8 ] },
+                "down": { "texture": "#bottom", "uv": [ 0, 0, 8, 8 ] }
+            }
+        },
+        {
+            "from": [ 5, 4, 5 ], 
+            "to": [ 11, 11, 11 ], 
+            "faces": {
+                "north": { "texture": "#side", "uv": [ 1, 0, 7, 7 ] },
+                "east": { "texture": "#side", "uv": [ 1, 0, 7, 7 ] },
+                "south": { "texture": "#side", "uv": [ 1, 0, 7, 7 ] },
+                "west": { "texture": "#side", "uv": [ 1, 0, 7, 7 ] },
+                "up": { "texture": "#top", "uv": [ 1, 1, 7, 7 ] }
+            }
+        },
+        {
+            "from": [ 7, 11, 7 ], 
+            "to": [ 9, 13, 9 ], 
+            "faces": {
+                "north": { "texture": "#rod", "uv": [ 7, 3, 9, 5 ] },
+                "east": { "texture": "#rod", "uv": [ 7, 3, 9, 5 ] },
+                "south": { "texture": "#rod", "uv": [ 7, 3, 9, 5 ] },
+                "west": { "texture": "#rod", "uv": [ 7, 3, 9, 5 ] },
+                "up": { "texture": "#rod", "uv": [ 7, 7, 9, 9 ] }
+            }
+        }
+    ]
+}

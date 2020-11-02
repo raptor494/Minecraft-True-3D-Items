@@ -1,0 +1,7 @@
+{
+	"parent": "item/sign",
+	"textures": {
+		"post": "block/birch_log",
+		"face": "block/birch_sign"
+	}
+}
