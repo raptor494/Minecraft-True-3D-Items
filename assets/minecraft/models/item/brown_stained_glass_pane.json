@@ -1,0 +1,6 @@
+{
+	"parent": "item/pane",
+	"textures": {
+		"pane": "block/brown_stained_glass"
+	}
+}

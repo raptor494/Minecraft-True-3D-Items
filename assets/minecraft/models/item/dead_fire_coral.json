@@ -1,0 +1,6 @@
+{
+	"parent": "item/cross",
+	"textures": {
+		"cross": "block/dead_fire_coral"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "#pane"
+	},
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		}
+	}
+}
