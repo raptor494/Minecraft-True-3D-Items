@@ -1,7 +1,7 @@
 {
-	"parent": "item/sign",
+	"parent": "true3d:item/sign",
 	"textures": {
 		"post": "block/spruce_log",
-		"face": "block/spruce_sign"
+		"face": "true3d:block/spruce_sign"
 	}
 }

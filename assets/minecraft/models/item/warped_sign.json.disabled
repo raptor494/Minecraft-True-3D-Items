@@ -1,7 +1,7 @@
 {
-	"parent": "item/sign",
+	"parent": "true3d:item/sign",
 	"textures": {
 		"post": "block/warped_stem",
-		"face": "block/warped_sign"
+		"face": "true3d:block/warped_sign"
 	}
 }
