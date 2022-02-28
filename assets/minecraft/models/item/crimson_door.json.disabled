@@ -1,5 +1,5 @@
 {
-	"parent": "item/door",
+	"parent": "true3d:item/door",
 	"textures": {
 		"layer0": "item/crimson_door"
 	}

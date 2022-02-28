@@ -1,7 +1,7 @@
 {
-	"parent": "item/sign",
+	"parent": "true3d:item/sign",
 	"textures": {
 		"post": "block/crimson_stem",
-		"face": "block/crimson_sign"
+		"face": "true3d:block/crimson_sign"
 	}
 }

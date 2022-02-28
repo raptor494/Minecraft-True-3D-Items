@@ -1,6 +1,6 @@
 {
-	"parent": "item/door",
+	"parent": "true3d:item/door",
 	"textures": {
-		"layer0": "item/iron_door"
+		"layer0": "true3d:item/iron_door"
 	}
 }
