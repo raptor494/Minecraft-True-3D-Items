@@ -1,5 +1,5 @@
 {
-	"parent": "block/soul_torch",
+    "parent": "xreliquary:block/interdiction_torch",
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {

@@ -1,5 +1,5 @@
 {
-	"parent": "block/soul_torch",
+    "parent": "torchmaster:block/megatorch",
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
