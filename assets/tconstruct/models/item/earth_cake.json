@@ -1,5 +1,5 @@
 {
-	"parent": "block/cake",
+	"parent": "tconstruct:block/slime/cake/earth/full",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [ 70, 45, 0 ],

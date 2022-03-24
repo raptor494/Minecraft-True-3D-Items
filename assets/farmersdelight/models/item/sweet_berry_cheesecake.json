@@ -1,5 +1,5 @@
 {
-	"parent": "block/cake",
+	"parent": "farmersdelight:block/sweet_berry_cheesecake",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [ 70, 45, 0 ],
