@@ -1,5 +1,5 @@
 {
-	"parent": "block/cake",
+	"parent": "supplementaries:block/pancakes/pancake_1",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [ 70, 45, 0 ],

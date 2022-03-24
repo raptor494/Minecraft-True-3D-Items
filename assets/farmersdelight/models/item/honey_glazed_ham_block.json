@@ -1,5 +1,5 @@
 {
-	"parent": "block/cake",
+	"parent": "farmersdelight:block/honey_glazed_ham_block_stage0",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [ 70, 45, 0 ],
