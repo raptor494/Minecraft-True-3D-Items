@@ -1,5 +1,5 @@
 {
-    "parent": "decorative_blocks_abnormals:block/ender_brazier",
+    "parent": "decorative_blocks:block/soul_brazier",
     "gui_light": "front",
     "display": {
         "gui": {
