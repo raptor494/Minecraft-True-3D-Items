@@ -1,3 +1,4 @@
 {
-    "parent": "block/soul_campfire"
+    "parent": "block/soul_campfire",
+    "gui_light": "front"
 }

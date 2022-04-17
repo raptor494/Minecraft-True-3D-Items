@@ -1,5 +1,6 @@
 {
     "parent": "decorative_blocks:block/brazier",
+    "gui_light": "front",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],
